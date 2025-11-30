@@ -26,7 +26,10 @@ CSS3
 
 Bootstrap 5
 
-Font Awesome Icons👩‍💻 Author
+Font Awesome Icons
+
+👩‍💻 Author
 
 Sualeha Creates
 Open to feedback and improvements!
+
